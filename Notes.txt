@@ -1,0 +1,6 @@
+Use opencv to read the RGB Values in the velocity to color table.
+Use that to create limits.
+Find an 8bit image reading library.
+Create Test images to read and then display.
+
+Add on an animation integration.
